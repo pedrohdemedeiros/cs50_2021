@@ -25,7 +25,7 @@ int main(void)
 
     while (pop < fpop)
     {
-        pop = pop + pop/3 - pop/4;
+        pop = pop + pop / 3 - pop / 4;
         ys++;
     }
 
