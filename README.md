@@ -6,5 +6,4 @@ CS50_2021_Problem Set
 4
 5
 6
-7
-TESTE
+
